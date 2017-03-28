@@ -1,5 +1,5 @@
-// Todo App Version 10.1
-console.log("Todo App Version 10.1");
+// Todo App Version 3.1
+console.log("Todo App Version 3.1");
 console.log("");
 
     // Ccreating the Object that will store "Data Bae" and "Functions"
@@ -54,7 +54,7 @@ var td_obj = {
         document.getElementById("inp1").value = "";
     },
 
-    
+
 
         // Will change the Name of a task (no change to comp stauts)
     changeTD: function(){
