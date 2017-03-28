@@ -1,0 +1,65 @@
+/* Todo App Version 910 */
+
+body{
+    /*background-color: rgb(155, 233, 229);*/
+    background-image: url("IMG/not1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.myTodoTitle{
+    color: rgb(29, 86, 198);
+    font-size: 35px;
+
+}
+
+.finished{
+    text-decoration: line-through;
+}
+
+#inp1{
+    width: 40vw;
+    height: 35px;
+    font-size: 20px;
+}
+
+#task-div-m {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gral-div-task{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(143, 235, 215);
+    border: 1px solid black;
+    width: 60vw;
+    margin: 2.5px;
+}
+
+.gral-para{
+    font-weight: bold;
+}
+
+.gral-but{
+    margin: 5px 5px 5px 0px;
+    text-decoration: none;
+}
+
+.gral-rad{
+    margin: 10px 0 0 25px;
+}
+
+input[type="checkbox"] {
+    display:inline-block;
+    width:30px;
+    height:30px;
+    background:url(check_radio_sheet.png) left top no-repeat;
+}
+
+
+.fa-github{
+    color: Black;
+}
