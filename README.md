@@ -1,5 +1,6 @@
-# To-Do_App--Vanilla_JS
-A JavaScript To-Do App.
+# To-Do_App--Vanilla-JS
+
+A JavaScript App.
 
  **This is a JavaScript Vanilla Todo app**
 
