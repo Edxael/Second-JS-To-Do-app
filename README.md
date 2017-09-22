@@ -1,5 +1,5 @@
 # To-Do_App--Vanilla-JS
-A JavaScript App.
+JavaScript App.
 
  **This is a JavaScript Vanilla Todo app**
 
