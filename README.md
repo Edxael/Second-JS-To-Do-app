@@ -1,7 +1,7 @@
 # To-Do_App--Vanilla_JS
 A JavaScript To-Do App.
 
-This is a JavaScript Vanilla Todo app.
+ **This is a JavaScript Vanilla Todo app**
 
 you can see and use the app live: http://todo.mycode.website/
 
